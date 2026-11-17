@@ -1,4 +1,4 @@
-# smart-parking-system-UML
+# smart_parking-system
 
 from flask import Flask, render_template_string
 
