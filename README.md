@@ -1,4 +1,4 @@
-# smart_parking-system
+# smart_parking_system
 
 from flask import Flask, render_template_string
 
